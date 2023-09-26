@@ -5,6 +5,7 @@ description: 'My first blog post and the launch of my website'
 pubDate: 'September 21 2023'
 heroImage: '/images/website-launch.jpg'
 altText: 'Website Launch text on a blue gradient background'
+githubLink: "https://GitHub.com/alex8obrien/website"
 ---
 
 Hi, welcome to my first blog post and the launch of version 1.0 of my website. It has been a great learning experience, and I hope you enjoy learning more about my projects. In this post, I will discuss several challenges I encountered when building this website and how I overcame them.
