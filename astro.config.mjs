@@ -8,5 +8,5 @@ export default defineConfig({
   site: 'https://www.alex8obrien.com',
   integrations: [mdx(), sitemap()],
   output: "server",
-  adapter: cloudflare()
+  adapter: cloudflare(),
 });
